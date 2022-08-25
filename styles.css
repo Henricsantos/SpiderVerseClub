@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&family=Yanone+Kaffeesatz:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&family=Yanone+Kaffeesatz:wght@200;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Rubik+Burned&family=Yanone+Kaffeesatz:wght@200;700&display=swap');
+
+
+
+* {
+    background-color: ;
+  }
+
+body{
+    background-image: url("../assets/images/spider-test-cover2.jpg");
+    background-repeat: no-repeat ; 
+    background-size: cover;
+    background-position: justify;
+    transition: 1s;
+    background-attachment: fixed;
+}
+header{
+    background-image: url("../assets/images/header.jpg");
+    background-size: cover;
+    background-position: justify;
+    background-repeat: no-repeat ; 
+    padding: 200px 30px;
+    margin: 40px;
+ 
+    
+}
+main{
+    text-align: center;
+}
+h1{
+    color: black;
+    background-color: gray;
+    padding: 1rem;
+    opacity: 0.8;
+    font-size: 5rem;
+    font-family:'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+    font:;
+    
+}
+.button{
+border: 3px solid black;
+background: #830202;
+padding: 1rem 1rem;
+text-decoration:none;
+font-size: 25px;
+font-family:'Yanone Kaffeesatz', sans-serif;
+font-weight: bold;
+color: black ;
+
+}
+.button:hover{
+    background: #3b0505;
+    color: whitesmoke;
+    transition: 1s;
+}
+#button-bot{
+    
+
+    }
+
+div{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top: 2rem;
+}
+.form-container{
+    flex-basis: 50%;
+    position: relative;
+}
+
+
+h2{
+    color: black;
+    background-color: #830202;
+    border-style: dashed;
+    border: 552px 552px;
+    padding: 2rem;
+    font-size: 4rem;
+    font-family: 'Yanone Kaffeesatz', sans-serif;  
+   
+}
+.container1{
+    text-align: right;
+}
+.container2{
+    text-align: left;
+}
+
+
+p{
+    width: 400px;
+    display : flex;
+    align-items : center;
+    justify-content : center;
+    font-size: 1.5rem;
+    font-family: 'Abel', sans-serif;
+    color: azure;
+    text-shadow: 10px;
+}
+.p1{
+text-align: left;
+}
+.p2{
+    text-align: right;
+}
+.p3{
+    ;
+    text-align:center;
+}
+h3{
+    font-size: 2rem;
+    font-family: ;
+    color: whitesmoke;
+
+}
+.section-form{
+    vertical-align: left;
+    display:flex;
+    justify-content: space-between;
+    align-items: justify;
+
+}
